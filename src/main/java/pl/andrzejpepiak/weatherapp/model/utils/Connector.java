@@ -10,7 +10,7 @@ public class Connector {
 
     private static final String SQL_LINK = "jdbc:mysql://5.135.218.27:3306/AndrzejPepiak?characterEncoding=utf8";
     private static final String SQL_USER = "AndrzejPepiak";
-    private static final String SQL_PASS = "Polska1001";
+    private static final String SQL_PASS = "########";
     private static final String SQL_CLASS = "com.mysql.jdbc.Driver";
 
     private Connection connection;
